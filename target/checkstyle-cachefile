@@ -1,0 +1,4 @@
+#Fri Oct 27 11:37:27 WEST 2023
+configuration*?=F2C347D3524C98BCF50EA8B815F2FB6A050924DE
+module-resource*?\:checkstyle-suppressions.xml=BF4461CA448E9DE1B366140AB1E34164E7CC775
+module-resource*?\:checkstyle-xpath-suppressions.xml=60E89C0BE253572471EC56375D3E123F689B7CB1
